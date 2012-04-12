@@ -31,4 +31,5 @@ $values=array('installed'=>$installed,'version'=>implode('.',OC_Util::getVersion
 echo(json_encode($values));
 
 
+
 ?>
